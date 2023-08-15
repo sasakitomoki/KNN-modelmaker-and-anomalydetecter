@@ -1,0 +1,6 @@
+/train_video_and_pic/picture/*
+/train_video_and_pic/video/*
+/graph/*
+/create_label_csv.ipynb
+/K-NN.ipynb
+/dataset/front*
